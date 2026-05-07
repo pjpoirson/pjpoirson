@@ -1,16 +1,34 @@
-## Hi there 👋
+# Paul-Jean Poirson
 
-<!--
-**pjpoirson/pjpoirson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/paul-jean-poirson/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projet en cours
+
+### ❡ [Corruption-Z](./corruption-z) — [corruption-z.com ↗](https://corruption-z.com)
+
+**Un jeu vidéo et un univers fictionnel développé avec l'IA, sous direction humaine stricte.**
+
+Survival-horror gothique-cosmique mené de bout en bout en solo, où l'IA est utilisée comme partenaire de production sur l'ensemble de la chaîne créative — cadrage du lore, écriture narrative, génération d'articles SEO, automatisation éditoriale — tout en gardant la direction artistique et la voix unifiées.
+
+#### Stack IA
+
+- **Claude** — lore, rédaction, design system
+- **ChatGPT, Gemini, Cursor, Claude Code** — programmation du jeu
+- **Claude Code** — pipeline éditorial automatisé → **120 articles créés et planifiés à ce jour**
+- **Midjourney** — direction visuelle
+- **Suno** — direction musicale
+
+#### Stack technique
+
+- **Le jeu**
+    - Node.js, framework Sails.js
+    - MongoDB
+    - Git workflow
+- **Le site public**
+    - Astro · Cloudflare Pages · Workers + Cron Triggers
+    - Content Collections
+    - Git workflow
+
+→ **[Documentation projet](./corruption-z)**
