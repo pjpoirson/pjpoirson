@@ -32,3 +32,7 @@ Survival-horror gothique-cosmique mené de bout en bout en solo, où l'IA est ut
     - Git workflow
 
 → **[Documentation projet](./corruption-z)**
+
+---
+
+*Dernière mise à jour : 7 mai 2026*

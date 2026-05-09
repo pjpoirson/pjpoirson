@@ -252,3 +252,7 @@ C'est cela, Corruption-Z.
 ---
 
 ← [Retour à l'index](./README.md) · [Suite : Pipeline éditorial →](./06-pipeline-editorial.md)
+
+---
+
+*Dernière mise à jour : 8 mai 2026*

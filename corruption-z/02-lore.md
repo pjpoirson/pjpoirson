@@ -157,3 +157,7 @@ Le site **[corruption-z.com](https://corruption-z.com)** publie progressivement 
 ---
 
 ← [Retour à l'index](./README.md) · [Précédent : Pipeline éditorial ←](./06-pipeline-editorial.md) · [Suite : Design System →](./05-design-system.md)
+
+---
+
+*Dernière mise à jour : 8 mai 2026*

@@ -111,3 +111,7 @@ Design System v3.7 « Marée & Spectre ». Tokens chromatiques (7 familles), typ
 ---
 
 *Documentation en cours de complétion. Chaque page est rédigée au fil de l'eau et reflète l'état réel de la production à sa date de mise à jour.*
+
+---
+
+*Dernière mise à jour : 8 mai 2026*

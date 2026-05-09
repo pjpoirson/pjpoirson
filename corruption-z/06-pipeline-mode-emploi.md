@@ -358,3 +358,7 @@ rm src/content/blog/<slug>.md
 pour publier les articles dont la pubDate arrive à échéance.
 
 C'est tout. Le pipeline tourne tout seul à partir de là.
+
+---
+
+*Dernière mise à jour : 8 mai 2026*

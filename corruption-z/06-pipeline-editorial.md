@@ -219,3 +219,7 @@ Cinq étapes dans la vie réelle de la pipeline, du calendrier au site en ligne 
 ---
 
 ← [Retour à l'index](./README.md) · [Précédent : Manifeste ←](./01-manifeste.md) · [Suite : Lore →](./02-lore.md)
+
+---
+
+*Dernière mise à jour : 8 mai 2026*

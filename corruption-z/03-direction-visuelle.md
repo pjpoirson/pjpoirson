@@ -374,3 +374,7 @@ Le bestiaire visuel complet est en cours de production, au rythme du calendrier 
 ---
 
 ← [Retour à l'index](./README.md) · [Précédent : Lore ←](./02-lore.md) · [Suite : Direction musicale →](./04-direction-musicale.md)
+
+---
+
+*Dernière mise à jour : 9 mai 2026*
